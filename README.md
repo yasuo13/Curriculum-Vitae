@@ -35,6 +35,10 @@
 |サーバー仮想化/コンテナ|Docker|0.5年|
 |サーバー仮想化/コンテナ|ECS Fargate|0.1年|
 |サーバー仮想化/コンテナ|Kubernetes|0.1年|
+|NW|Cisco|2年|
+|NW|YAMAHA|2年|
+|NW|NEC|2年|
+|サーバー仮想化/コンテナ|Kubernetes|0.1年|
 |IaC|CloudFormation|1年|
 |IaC|Terraform|0年|
 |IaC|Ansible|0年|
@@ -76,7 +80,7 @@ Pythonは読む程度なら業務で扱ったことあり
 
 職務: インフラエンジニア
 
-事業内容： ユーザ系システムインテグレータ
+事業内容： XXX
 
 #### アプリ、Webサービス パブリッククラウドの構築・運用
 - パブリッククラウド
@@ -96,7 +100,7 @@ Pythonは読む程度なら業務で扱ったことあり
 |基本情報技術者試験|20XX/XX|
 |CCNP|20XX/XX|
 |AWS認定 SAA|20XX/XX|
-|MCSA2012 SAA|20XX/XX|
+|MCSA Win Ser2012|20XX/XX|
 |LPIC1|20XX/XX|
 ## やったことはないが興味があるもの
 
