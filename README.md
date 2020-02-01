@@ -115,7 +115,7 @@ Pythonは読む程度なら業務で扱ったことあり
 ## 課外活動
 
 ### 過去の登壇資料
-* [Speaker Deck](https://speakerdeck.com/)
+* [Speaker Deck](https://speakerdeck.com/yasuo13)
   * [インフラ勉強会](https://wp.infra-workshop.tech/)でのオンライン登壇
   * 会社の社内LT
 
