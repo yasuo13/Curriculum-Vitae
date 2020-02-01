@@ -21,7 +21,7 @@
 |住まい|23区某所|
 |Wantedly|[リンク](https://)|
 |Qiita|[リンク](https://)|
-|SpeakerDeck|[リンク](https://)|
+|SpeakerDeck|[リンク](https://speakerdeck.com/yasuo13)|
 
 ## スキル
 ### 業務で扱ったもの
